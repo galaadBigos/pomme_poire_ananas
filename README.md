@@ -1,5 +1,6 @@
 # pomme_poire_ananas
-
+Galaad Bigos
+CDA C#
 A new Flutter project.
 
 ## Getting Started
